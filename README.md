@@ -1,5 +1,5 @@
 # arXiv App
-Internship Assignment
+Recurssive API Fetch calls
 
 # Technology Stack
 Used `React.js` Framework with `react-dom-router` for routing, `Material UI` for designing web pages, `arXiv API` for fetching the technical articles data 
